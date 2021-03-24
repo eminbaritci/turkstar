@@ -1,2 +1,2 @@
 # turkstar
-a website for my team turkstar 💲💲💲
+a website for my team turkstar 
